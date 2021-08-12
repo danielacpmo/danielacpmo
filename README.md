@@ -1,6 +1,7 @@
 <h5>Hi! I'm Daniela Martins
 
-- 🔭 I’m currently working on QA - 🌱 I’m currently learning language python
+- 🔭 I’m currently working on QA 
+- 🌱 I’m currently learning language python
 </h5>
 
 ##
